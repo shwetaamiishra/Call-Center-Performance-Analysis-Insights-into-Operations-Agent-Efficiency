@@ -22,3 +22,5 @@
 ➡ The Agent Statistics table identifies high-performing agents like *Becky and Martha* with impressive resolution rates and speed.  
 
 ⚡ *Overall, this dashboard provides a clear snapshot of call center efficiency, agent performance, and customer satisfaction, enabling data-driven decision-making for improved operations!* ⚡
+![Screenshot 2024-12-18 122352](https://github.com/user-attachments/assets/954202a0-53bc-4e0e-b2b5-fbcfce0e66c1)
+
